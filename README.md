@@ -1,4 +1,4 @@
-# Skin2Sta2 
+# Skin2Sta2 (ex. Skin2StatueLive)
 Small but powerful tool from [AxoSpyeyes](https://github.com/AxoSpyeyes/skin2sta2) to convert your skin file into a `.schem` file with blocks of the form **1.16.5**.
 ## How it's work?
 - Replace the default `skininput.png` with your own skin of the same name;
