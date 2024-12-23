@@ -1,5 +1,5 @@
 # Skin2Sta2 
-Small but powerful tool to convert your skin file into a `.schem` file with blocks of the form **1.16.5**.
+Small but powerful tool from [AxoSpyeyes](https://github.com/AxoSpyeyes/skin2sta2) to convert your skin file into a `.schem` file with blocks of the form **1.16.5**.
 ## How it's work?
 - Replace the default `skininput.png` with your own skin of the same name;
 - Launch `skintostatue.py`;
