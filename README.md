@@ -8,4 +8,4 @@ Small but powerful tool from [AxoSpyeyes](https://github.com/AxoSpyeyes/skin2sta
 * Install [Pyton](https://www.python.org/);
 * Install Visual code editor, like [Microsoft Visual Studio](https://visualstudio.microsoft.com/);
 * Install additional Python packages to work: [mcschematics](https://pypi.org/project/mcschematic/) and [pillow](https://pypi.org/project/pillow/);
-* Launch `skintostatue.py`.
+* Launch `skintostatue.py` and run.
